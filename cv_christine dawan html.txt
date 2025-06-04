@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CV Christine Veronika Dawan</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 20px;
+      background: #f9f9f9;
+      color: #333;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      background: #fff;
+      padding: 20px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h1, h2 {
+      color: #2c3e50;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    a {
+      color: #2980b9;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .section {
+      margin-bottom: 25px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Christine Veronika Dawan</h1>
+    <p>Email: <a href="mailto:dawanchristine1@gmail.com">dawanchristine1@gmail.com</a></p>
+    <p>LinkedIn: Christine Dawan</p>
+
+    <div class="section">
+      <h2>Profil Singkat</h2>
+      <p>Nama saya Christine Veronika Dawan, saya lulusan Sarjana Teologi dengan predikat cumlaude. Saya tertarik dengan dunia pelayanan, pendidikan dan pekerjaan perkantoran yang melibatkan interaksi dengan banyak orang. Saya memiliki pengalaman di bidang hospitality saat menempuh pendidikan perguruan tinggi. Saya memiliki ketertarikan terhadap ilmu psikologi dan saya juga suka belajar hal baru. Saya memiliki pengalaman bekerja di bidang sekretariat gereja selama 2 tahun di GBI Duta Kerajaan Jatibarang, dan di waktu yang bersamaan saya mengelola rumah belajar di luar jam kerja. Saya juga memiliki pengalaman mengajar sebagai guru kelas Kelompok Bermain di KB-TK Kanisius Pati, serta terlibat dalam organisasi LevelUp di bawah naungan PPHTGD.</p>
+    </div>
+
+    <div class="section">
+      <h2>Pengalaman Kerja</h2>
+      <ul>
+        <li>
+          <strong>Sekretariat Gereja</strong> – GBI Duta Kerajaan Jatibarang (2018–2020)<br>
+          Bertanggung jawab dalam surat-menyurat, mengatur jadwal, mendata keanggotaan, mengkoordinasi kegiatan dalam dan luar gereja, serta membuat konsep kegiatan Anak-anak, Remaja dan Umum.
+        </li>
+        <li>
+          <strong>Koordinator Rumah Belajar Jatibarang Kidul</strong> – Brebes (2018–2020)<br>
+          Membangun relasi dengan masyarakat, menyediakan kebutuhan belajar anak-anak, membuat materi kreatif, mengatur jadwal kelas dan menyelenggarakan acara hari nasional.
+        </li>
+        <li>
+          <strong>Guru Kelas Kelompok Bermain</strong> – KB-TK Kanisius Pati (2023–2024)<br>
+          Membangun relasi dengan wali murid, menyusun RPP dan jadwal kelas, mengedit konten Instagram menggunakan Capcut, dan membuat konten Canva.
+        </li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Pendidikan</h2>
+      <ul>
+        <li><strong>SMK Kristen Terang Bangsa Semarang</strong> – Kewirausahaan / Enterpreneur (2013)</li>
+        <li><strong>Sekolah Tinggi Teologi Tawangmangu</strong> – Teologi (2018)</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Skill / Keahlian</h2>
+      <ul>
+        <li>Ms. Word, Ms. Excel, Ms. PowerPoint, Canva, Capcut</li>
+        <li>Kemampuan Bahasa Inggris tingkat dasar</li>
+        <li>Kemampuan komunikasi yang baik</li>
+        <li>Mudah beradaptasi</li>
+        <li>Dapat bekerja dalam tim</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Portofolio</h2>
+      <p><a href="https://drive.google.com/drive/folders/1osB-9HDVwefCkyR0i0Q4Ad2UNJqsUegF?usp=sharing" target="_blank">Klik di sini untuk melihat portofolio saya</a></p>
+    </div>
+  </div>
+</body>
+</html>
